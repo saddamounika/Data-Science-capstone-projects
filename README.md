@@ -10,7 +10,7 @@ problems.
 | # | Project | Type | Best Model | Key Result |
 |---|---|---|---|---|
 | 1 | [Flight Fare Prediction](https://github.com/saddamounika/Data-Science-capstone-projects/blob/main/flight%20fare%20prediction.ipynb) [ReadMe](https://github.com/saddamounika/Data-Science-capstone-projects/blob/main/README_1.md)| Regression | Random Forest | R² = 0.817, MAE = ₹1,171 |
-| 2 | [Bank Marketing — Term Deposit Prediction](./02-portuguese-bank-marketing) | Classification | Tuned Random Forest | 88.9% accuracy, 0.803 ROC-AUC |
+| 2 | [Bank Marketing — Term Deposit Prediction](https://github.com/saddamounika/Data-Science-capstone-projects/blob/main/Protuguese%20bank%20marketing.ipynb) [Readme]() | Classification | Tuned Random Forest | 88.9% accuracy, 0.803 ROC-AUC |
 | 3 | [Rice Leaf Disease Detection](./03-rice-leaf-disease-detection) | Image Classification (CNN) | CNN (Baseline) | 91.7% accuracy, 0.919 F1 |
 | 4 | [Cellphone Price Range Prediction](./04-cellphone-price-prediction) | Classification | Tuned Random Forest / GB | 93.75% accuracy, 0.937 F1 |
 
